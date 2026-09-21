@@ -1,0 +1,31 @@
+dates:
+  train: ["2021-07-02", "2023-12-31"]
+  validation: ["2024-01-01", "2024-12-31"]
+  test: ["2025-01-01", null]
+
+access:
+  test: final_eval_only  # enforced by model/split.py — see model/evaluate.py
+
+swing:
+  candles_each_side: 3
+
+horizons:
+  target_r: 1.0
+  stop_r: 1.0
+  max_bars_forward: 100
+
+# Live spreads pulled directly from MT5 (bid/ask tick, Exness-MT5Real27)
+# on 2026-09-21 — a single current snapshot, not a historical series.
+# Real spread varies with session/volatility/liquidity, so this is still
+# a simplification (one constant per symbol applied across 2.5+ years of
+# history), just no longer a guessed placeholder.
+spread:
+  USTECm: 1.12
+  US30m: 1.00
+  XAUUSDm: 0.26
+
+features:
+  - bos
+  - choch
+  - sweep
+  - zone_distance

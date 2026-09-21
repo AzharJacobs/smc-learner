@@ -1,0 +1,109 @@
+{
+  "fetch_date_utc": "2026-09-21T14:27:20.767214+00:00",
+  "mt5_build": {
+    "terminal_version": 500,
+    "build": 6182,
+    "build_date": "5 Sep 2026"
+  },
+  "files": {
+    "USTECm_5M.csv": {
+      "symbol": "USTECm",
+      "timeframe": "5M",
+      "rows": 359440,
+      "claimed_start_utc": "2018-06-29",
+      "true_start_utc": "2021-07-02",
+      "first_close_utc": "2021-07-02T00:05:00+00:00",
+      "last_close_utc": "2026-09-21T14:30:00+00:00",
+      "gap_bars": 20580,
+      "sha256": "13317563bea75318fddb9a1b885a1e524518732863a65d74caeed075ae8b09b6"
+    },
+    "USTECm_15M.csv": {
+      "symbol": "USTECm",
+      "timeframe": "15M",
+      "rows": 119891,
+      "claimed_start_utc": "2018-06-29",
+      "true_start_utc": "2021-07-02",
+      "first_close_utc": "2021-07-02T00:15:00+00:00",
+      "last_close_utc": "2026-09-21T14:30:00+00:00",
+      "gap_bars": 4247,
+      "sha256": "c872c384c6cc6ebb11d99ae1029b1412271d1fd90d8da121812916676367dab7"
+    },
+    "USTECm_1H.csv": {
+      "symbol": "USTECm",
+      "timeframe": "1H",
+      "rows": 30245,
+      "claimed_start_utc": "2018-06-29",
+      "true_start_utc": "2021-07-02",
+      "first_close_utc": "2021-07-02T01:00:00+00:00",
+      "last_close_utc": "2026-09-21T15:00:00+00:00",
+      "gap_bars": 872,
+      "sha256": "f0c30a6feff00a1279b7b2aff43f39200b8e9e3ddfa493e2275aadaa11f646ee"
+    },
+    "US30m_5M.csv": {
+      "symbol": "US30m",
+      "timeframe": "5M",
+      "rows": 359440,
+      "claimed_start_utc": "2018-06-29",
+      "true_start_utc": "2021-07-02",
+      "first_close_utc": "2021-07-02T00:05:00+00:00",
+      "last_close_utc": "2026-09-21T14:30:00+00:00",
+      "gap_bars": 26323,
+      "sha256": "27c9b3a7fe119890fd0d4043ee88478a4466b0a1b29f8271d0a2b5e755aa0d4c"
+    },
+    "US30m_15M.csv": {
+      "symbol": "US30m",
+      "timeframe": "15M",
+      "rows": 119891,
+      "claimed_start_utc": "2018-06-29",
+      "true_start_utc": "2021-07-02",
+      "first_close_utc": "2021-07-02T00:15:00+00:00",
+      "last_close_utc": "2026-09-21T14:30:00+00:00",
+      "gap_bars": 5203,
+      "sha256": "4ab83b0f9534ac56b8a010ba30ccda337b481faa10373479fc10e1a0d422e45c"
+    },
+    "US30m_1H.csv": {
+      "symbol": "US30m",
+      "timeframe": "1H",
+      "rows": 30245,
+      "claimed_start_utc": "2018-06-29",
+      "true_start_utc": "2021-07-02",
+      "first_close_utc": "2021-07-02T01:00:00+00:00",
+      "last_close_utc": "2026-09-21T15:00:00+00:00",
+      "gap_bars": 930,
+      "sha256": "b85441d23f9d4b1c7edc9810f147286f62e417b09649fe93531c2ad8e552a4f8"
+    },
+    "XAUUSDm_5M.csv": {
+      "symbol": "XAUUSDm",
+      "timeframe": "5M",
+      "rows": 663832,
+      "claimed_start_utc": "2014-01-14",
+      "true_start_utc": "2017-04-27",
+      "first_close_utc": "2017-04-27T00:05:00+00:00",
+      "last_close_utc": "2026-09-21T14:30:00+00:00",
+      "gap_bars": 33861,
+      "sha256": "2e075c46bd1c4e67ce51ce034191f9a2cfd32444b660a6291384fb93b6fd44e3"
+    },
+    "XAUUSDm_15M.csv": {
+      "symbol": "XAUUSDm",
+      "timeframe": "15M",
+      "rows": 221552,
+      "claimed_start_utc": "2014-01-14",
+      "true_start_utc": "2017-04-27",
+      "first_close_utc": "2017-04-27T00:15:00+00:00",
+      "last_close_utc": "2026-09-21T14:30:00+00:00",
+      "gap_bars": 6664,
+      "sha256": "609f55bc17aaffa723f78989f71aa1d0dc8d8c776e5deee61c9f2e34827ad4eb"
+    },
+    "XAUUSDm_1H.csv": {
+      "symbol": "XAUUSDm",
+      "timeframe": "1H",
+      "rows": 56544,
+      "claimed_start_utc": "2014-01-14",
+      "true_start_utc": "2017-02-27",
+      "first_close_utc": "2017-02-27T01:00:00+00:00",
+      "last_close_utc": "2026-09-21T15:00:00+00:00",
+      "gap_bars": 1391,
+      "sha256": "05327892d57c3896e9f0bfd4f32c0833199736d56a7bb509a713689d760a82d5"
+    }
+  }
+}
